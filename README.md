@@ -1,4 +1,4 @@
-This is an example of an nginx configuration:
+This is an example of an nginx configuration with:
 
 * forward http to https
 * restrict access to a subdirectory
