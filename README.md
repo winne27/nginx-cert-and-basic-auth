@@ -1,3 +1,5 @@
+#Nginx client cert auth with fallback basic auth
+
 This is an example of an nginx configuration with:
 
 * forward http to https
